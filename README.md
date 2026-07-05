@@ -1,7 +1,7 @@
 # Hi, I'm Muhammad Harris 👋
 
 ## 🚀 About Me
-I'm a self-taught Full Stack Developer from Pakistan who enjoys building web applications and exploring embedded systems with Arduino and ESP32.
+I'm a self-taught Full Stack Developer from Pakistan who enjoys building web applications.
 
 I'm currently focused on improving my problem-solving skills, writing clean code, and creating real-world projects.
 
@@ -11,7 +11,6 @@ I'm currently focused on improving my problem-solving skills, writing clean code
 - JavaScript
 - React
 - Node.js
-- Express.js
 - MongoDB
 - Git & GitHub
 
@@ -19,9 +18,7 @@ I'm currently focused on improving my problem-solving skills, writing clean code
 - Visual Studio Code
 - Git
 - GitHub
-- Arduino IDE
-- ESP32
-- Linux
+- Node.js
 
 ## 📂 Featured Projects
 - Portfolio Website *(Coming Soon)*
