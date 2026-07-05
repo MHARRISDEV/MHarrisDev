@@ -21,7 +21,7 @@ I'm currently focused on improving my problem-solving skills, writing clean code
 - Node.js
 
 ## 📂 Featured Projects
-- Portfolio Website *(Coming Soon)*
+- Portfolio Website *mharrisdevportfolio.netlify.app*
 - Task Manager App *(Coming Soon)*
 - Weather App *(Coming Soon)*
 - Expense Tracker *(Coming Soon)*
