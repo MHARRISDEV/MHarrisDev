@@ -23,7 +23,6 @@ I'm currently focused on improving my problem-solving skills, writing clean code
 ## 📂 Featured Projects
 - Portfolio Website *https://portfoliomharrisdev.netlify.app*
 - Ecommerce Web *https://maisondeiram.netlify.app*
-- Weather App *(Coming Soon)*
 
 ## 🎯 Goals for 2026
 - Build 15+ real-world projects
