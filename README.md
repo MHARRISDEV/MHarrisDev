@@ -87,7 +87,7 @@ My current journey is centered around:
 
 <h3>🌐 Portfolio</h3>
 
-<a href="https://portfolioharrisdev.netlify.app/">
+<a href="https://portfolioharrisdev.netlify.app">
   <img src="https://placehold.co/600x350/0d1117/58a6ff?text=Portfolio+Website" width="100%" alt="Portfolio Website">
 </a>
 
@@ -99,7 +99,7 @@ My current journey is centered around:
 
 <h3>🛒 E-Commerce</h3>
 
-<a href="https://masonideeram.netlify.app/">
+<a href="https://maisondeiram.netlify.app/">
   <img src="https://placehold.co/600x350/0d1117/58a6ff?text=E-Commerce+Website" width="100%" alt="E-Commerce Website">
 </a>
 
